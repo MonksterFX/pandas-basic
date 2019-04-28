@@ -1,801 +1,801 @@
-,Name,Type 1,Type 2,HP,Attack
-0,bulbasaur, grass ,  poison  ,HP45,AT49
-1,ivysaur,  grass  , poison ,HP60,AT62
-2,venusaur,grass,  poison  ,HP80,AT82
-3,venusaurmega venusaur, grass ,  poison  ,HP80,AT100
-4,charmander,fire,nan,HP39,AT52
-5,charmeleon,fire,nan,HP58,AT64
-6,charizard,  fire  , flying ,HP78,AT84
-7,charizardmega charizard x,fire, dragon ,HP78,AT130
-8,charizardmega charizard y,  fire  ,  flying  ,HP101,AT104
-9,squirtle,  water  ,nan,HP44,AT48
-10,wartortle, water , nan ,HP59,AT63
-11,blastoise,  water  ,nan,HP79,AT83
-12,blastoisemega blastoise,water,  nan  ,HP79,AT103
-13,caterpie, bug , nan ,HP45,AT30
-14,metapod,bug,  nan  ,HP50,AT20
-15,butterfree, bug ,  flying  ,HP60,AT45
-16,weedle,  bug  ,poison,HP40,AT35
-17,kakuna,bug, poison ,HP45,AT25
-18,beedrill,bug, poison ,HP65,AT90
-19,beedrillmega beedrill, bug ,poison,HP65,AT150
-20,pidgey, normal ,flying,HP40,AT45
-21,pidgeotto,  normal  ,  flying  ,HP63,AT60
-22,pidgeot, normal ,  flying  ,HP83,AT80
-23,pidgeotmega pidgeot, normal ,  flying  ,HP83,AT80
-24,rattata,normal,nan,HP30,AT56
-25,raticate,normal, nan ,HP55,AT81
-26,spearow,normal,flying,HP40,AT60
-27,fearow,normal, flying ,HP65,AT90
-28,ekans, poison ,  nan  ,HP35,AT60
-29,arbok,  poison  ,nan,HP60,AT85
-30,pikachu,electric,nan,HP35,AT55
-31,raichu,electric,nan,HP60,AT90
-32,sandshrew,ground,  nan  ,HP50,AT75
-33,sandslash, ground ,nan,HP75,AT100
-34,nidoran♀,  poison  , nan ,HP55,AT47
-35,nidorina, poison ,nan,HP70,AT62
-36,nidoqueen,poison, ground ,HP90,AT92
-37,nidoran♂,poison, nan ,HP46,AT57
-38,nidorino,poison,nan,HP61,AT72
-39,nidoking,  poison  ,  ground  ,HP81,AT102
-40,clefairy,fairy,nan,HP70,AT45
-41,clefable, fairy ,nan,HP95,AT70
-42,vulpix,fire, nan ,HP38,AT41
-43,ninetales,  fire  ,nan,HP73,AT76
-44,jigglypuff, normal ,fairy,HP115,AT45
-45,wigglytuff,  normal  ,  fairy  ,HP140,AT70
-46,zubat, poison ,  flying  ,HP40,AT45
-47,golbat,poison,flying,HP75,AT80
-48,oddish, grass ,  poison  ,HP45,AT50
-49,gloom,grass,  poison  ,HP60,AT65
-50,vileplume, grass ,poison,HP75,AT80
-51,paras,  bug  , grass ,HP35,AT70
-52,parasect, bug ,  grass  ,HP60,AT95
-53,venonat, bug ,  poison  ,HP60,AT55
-54,venomoth, bug , poison ,HP70,AT65
-55,diglett,  ground  ,nan,HP10,AT55
-56,dugtrio, ground ,nan,HP35,AT80
-57,meowth,normal, nan ,HP40,AT45
-58,persian, normal , nan ,HP65,AT70
-59,psyduck,  water  ,nan,HP50,AT52
-60,golduck,water,nan,HP80,AT82
-61,mankey,fighting,  nan  ,HP40,AT80
-62,primeape,fighting,  nan  ,HP65,AT105
-63,growlithe,  fire  ,  nan  ,HP55,AT70
-64,arcanine,fire,  nan  ,HP90,AT110
-65,poliwag, water ,nan,HP40,AT50
-66,poliwhirl,water,  nan  ,HP65,AT65
-67,poliwrath,water, fighting ,HP90,AT95
-68,abra, psychic ,  nan  ,HP25,AT20
-69,kadabra,psychic,nan,HP40,AT35
-70,alakazam, psychic ,nan,HP55,AT50
-71,alakazammega alakazam,  psychic  , nan ,HP55,AT50
-72,machop,  fighting  ,  nan  ,HP70,AT80
-73,machoke,fighting,nan,HP80,AT100
-74,machamp,  fighting  ,  nan  ,HP90,AT130
-75,bellsprout,  grass  ,  poison  ,HP50,AT75
-76,weepinbell,grass, poison ,HP65,AT90
-77,victreebel,grass,  poison  ,HP80,AT105
-78,tentacool,  water  , poison ,HP40,AT40
-79,tentacruel,water,poison,HP80,AT70
-80,geodude,  rock  ,  ground  ,HP40,AT80
-81,graveler,rock,  ground  ,HP55,AT95
-82,golem,rock, ground ,HP80,AT120
-83,ponyta,fire, nan ,HP50,AT85
-84,rapidash,  fire  ,nan,HP65,AT100
-85,slowpoke,  water  , psychic ,HP90,AT65
-86,slowbro,  water  , psychic ,HP95,AT75
-87,slowbromega slowbro,  water  ,psychic,HP95,AT75
-88,magnemite,  electric  ,steel,HP25,AT35
-89,magneton, electric ,  steel  ,HP50,AT60
-90,farfetch'd,  normal  ,  flying  ,HP52,AT65
-91,doduo,  normal  ,  flying  ,HP35,AT85
-92,dodrio,normal,flying,HP60,AT110
-93,seel,  water  , nan ,HP65,AT45
-94,dewgong,water,ice,HP90,AT70
-95,grimer, poison , nan ,HP80,AT80
-96,muk,poison, nan ,HP105,AT105
-97,shellder,water, nan ,HP30,AT65
-98,cloyster,water,  ice  ,HP50,AT95
-99,gastly, ghost , poison ,HP30,AT35
-100,haunter,ghost,  poison  ,HP45,AT50
-101,gengar,ghost, poison ,HP60,AT65
-102,gengarmega gengar,  ghost  ,poison,HP60,AT65
-103,onix,rock,  ground  ,HP35,AT45
-104,drowzee, psychic ,  nan  ,HP60,AT48
-105,hypno, psychic , nan ,HP85,AT73
-106,krabby,water, nan ,HP30,AT105
-107,kingler, water , nan ,HP55,AT130
-108,voltorb, electric ,nan,HP40,AT30
-109,electrode,electric,  nan  ,HP60,AT50
-110,exeggcute,  grass  , psychic ,HP60,AT40
-111,exeggutor, grass ,psychic,HP95,AT95
-112,cubone,  ground  ,  nan  ,HP50,AT50
-113,marowak, ground , nan ,HP60,AT80
-114,hitmonlee,fighting,  nan  ,HP50,AT120
-115,hitmonchan,fighting, nan ,HP50,AT105
-116,lickitung, normal ,  nan  ,HP90,AT55
-117,koffing,poison,  nan  ,HP40,AT65
-118,weezing,  poison  , nan ,HP65,AT90
-119,rhyhorn,ground,  rock  ,HP80,AT85
-120,rhydon,  ground  ,  rock  ,HP105,AT130
-121,chansey,normal,  nan  ,HP250,AT5
-122,tangela, grass ,  nan  ,HP65,AT55
-123,kangaskhan,normal,  nan  ,HP105,AT95
-124,kangaskhanmega kangaskhan,normal,nan,HP105,AT125
-125,horsea,water,nan,HP30,AT40
-126,seadra,  water  ,nan,HP55,AT65
-127,goldeen,water,nan,HP45,AT67
-128,seaking,  water  ,  nan  ,HP80,AT92
-129,staryu,water, nan ,HP30,AT45
-130,starmie, water , psychic ,HP60,AT75
-131,mr. mime,  psychic  ,  fairy  ,HP40,AT45
-132,scyther,  bug  ,  flying  ,HP70,AT110
-133,jynx,ice,psychic,HP65,AT50
-134,electabuzz,electric, nan ,HP65,AT83
-135,magmar, fire , nan ,HP65,AT95
-136,pinsir,  bug  ,  nan  ,HP65,AT125
-137,pinsirmega pinsir, bug ,flying,HP65,AT155
-138,tauros,  normal  ,  nan  ,HP75,AT100
-139,magikarp,water, nan ,HP20,AT10
-140,gyarados,water, flying ,HP95,AT125
-141,gyaradosmega gyarados, water , dark ,HP95,AT155
-142,lapras,  water  ,ice,HP130,AT85
-143,ditto,normal,nan,HP48,AT48
-144,eevee, normal ,  nan  ,HP55,AT55
-145,vaporeon,water,nan,HP130,AT65
-146,jolteon, electric ,nan,HP65,AT65
-147,flareon, fire , nan ,HP65,AT130
-148,porygon,  normal  ,  nan  ,HP65,AT60
-149,omanyte, rock ,  water  ,HP35,AT40
-150,omastar,rock,water,HP70,AT60
-151,kabuto, rock ,  water  ,HP30,AT80
-152,kabutops,rock, water ,HP60,AT115
-153,aerodactyl, rock ,  flying  ,HP80,AT105
-154,aerodactylmega aerodactyl, rock ,flying,HP80,AT135
-155,snorlax,  normal  , nan ,HP160,AT110
-156,articuno legandary, ice ,  flying  ,HP90,AT85
-157,zapdos legandary,  electric  , flying ,HP90,AT90
-158,moltres legandary,  fire  ,flying,HP90,AT100
-159,dratini, dragon , nan ,HP41,AT64
-160,dragonair,dragon,  nan  ,HP61,AT84
-161,dragonite,  dragon  , flying ,HP91,AT134
-162,mewtwo legandary,psychic, nan ,HP106,AT110
-163,mewtwomega mewtwo x legandary,  psychic  ,fighting,HP106,AT190
-164,mewtwomega mewtwo y legandary,psychic,  nan  ,HP106,AT150
-165,mew,psychic,nan,HP100,AT100
-166,chikorita,  grass  , nan ,HP45,AT49
-167,bayleef,grass,  nan  ,HP60,AT62
-168,meganium, grass ,  nan  ,HP80,AT82
-169,cyndaquil,fire,  nan  ,HP39,AT52
-170,quilava,  fire  ,nan,HP58,AT64
-171,typhlosion,fire,nan,HP78,AT84
-172,totodile, water ,nan,HP50,AT65
-173,croconaw, water , nan ,HP65,AT80
-174,feraligatr,  water  ,  nan  ,HP85,AT105
-175,sentret, normal ,nan,HP35,AT46
-176,furret,normal, nan ,HP85,AT76
-177,hoothoot, normal ,  flying  ,HP60,AT30
-178,noctowl,  normal  ,  flying  ,HP100,AT50
-179,ledyba,  bug  ,flying,HP40,AT20
-180,ledian,  bug  , flying ,HP55,AT35
-181,spinarak,bug,poison,HP40,AT60
-182,ariados,bug,poison,HP70,AT90
-183,crobat,poison, flying ,HP85,AT90
-184,chinchou,  water  ,electric,HP75,AT38
-185,lanturn,water,  electric  ,HP125,AT58
-186,pichu, electric , nan ,HP20,AT40
-187,cleffa,fairy,  nan  ,HP50,AT25
-188,igglybuff, normal , fairy ,HP90,AT30
-189,togepi,fairy,nan,HP35,AT20
-190,togetic, fairy , flying ,HP55,AT40
-191,natu,psychic,flying,HP40,AT50
-192,xatu,  psychic  , flying ,HP65,AT75
-193,mareep, electric , nan ,HP55,AT40
-194,flaaffy, electric , nan ,HP70,AT55
-195,ampharos, electric , nan ,HP90,AT75
-196,ampharosmega ampharos,electric,  dragon  ,HP90,AT95
-197,bellossom, grass ,nan,HP75,AT80
-198,marill,  water  , fairy ,HP70,AT20
-199,azumarill,water,fairy,HP100,AT50
-200,sudowoodo, rock ,  nan  ,HP70,AT100
-201,politoed,water, nan ,HP90,AT75
-202,hoppip,  grass  ,  flying  ,HP35,AT35
-203,skiploom,grass,  flying  ,HP55,AT45
-204,jumpluff,grass,flying,HP75,AT55
-205,aipom,normal,nan,HP55,AT70
-206,sunkern,grass,nan,HP30,AT30
-207,sunflora,grass,nan,HP75,AT75
-208,yanma, bug ,  flying  ,HP65,AT65
-209,wooper, water ,ground,HP55,AT45
-210,quagsire,  water  ,ground,HP95,AT85
-211,espeon,  psychic  ,  nan  ,HP65,AT65
-212,umbreon, dark ,  nan  ,HP95,AT65
-213,murkrow,  dark  ,  flying  ,HP60,AT85
-214,slowking, water , psychic ,HP95,AT75
-215,misdreavus,  ghost  , nan ,HP60,AT60
-216,unown, psychic ,  nan  ,HP48,AT72
-217,wobbuffet,  psychic  , nan ,HP190,AT33
-218,girafarig,  normal  , psychic ,HP70,AT80
-219,pineco, bug ,nan,HP50,AT65
-220,forretress, bug ,steel,HP75,AT90
-221,dunsparce, normal , nan ,HP100,AT70
-222,gligar,  ground  ,  flying  ,HP65,AT75
-223,steelix,steel,  ground  ,HP75,AT85
-224,steelixmega steelix,  steel  ,ground,HP75,AT125
-225,snubbull,  fairy  , nan ,HP60,AT80
-226,granbull,fairy,  nan  ,HP90,AT120
-227,qwilfish, water , poison ,HP65,AT95
-228,scizor, bug ,  steel  ,HP70,AT130
-229,scizormega scizor,bug, steel ,HP70,AT150
-230,shuckle,bug,  rock  ,HP20,AT10
-231,heracross, bug ,fighting,HP80,AT125
-232,heracrossmega heracross, bug ,  fighting  ,HP80,AT185
-233,sneasel, dark , ice ,HP55,AT95
-234,teddiursa,  normal  ,nan,HP60,AT80
-235,ursaring, normal ,  nan  ,HP90,AT130
-236,slugma,fire, nan ,HP40,AT40
-237,magcargo, fire ,  rock  ,HP50,AT50
-238,swinub,ice,  ground  ,HP50,AT50
-239,piloswine,ice, ground ,HP100,AT100
-240,corsola,water,  rock  ,HP55,AT55
-241,remoraid,water,  nan  ,HP35,AT65
-242,octillery,water,  nan  ,HP75,AT105
-243,delibird,ice, flying ,HP45,AT55
-244,mantine, water ,flying,HP65,AT40
-245,skarmory,  steel  , flying ,HP65,AT80
-246,houndour,dark,  fire  ,HP45,AT60
-247,houndoom, dark , fire ,HP75,AT90
-248,houndoommega houndoom,dark,fire,HP75,AT90
-249,kingdra,  water  ,dragon,HP75,AT95
-250,phanpy, ground ,  nan  ,HP90,AT60
-251,donphan,ground,nan,HP90,AT120
-252,porygon2,  normal  ,  nan  ,HP85,AT80
-253,stantler,normal,  nan  ,HP73,AT95
-254,smeargle,  normal  , nan ,HP55,AT20
-255,tyrogue,  fighting  ,  nan  ,HP35,AT35
-256,hitmontop,fighting,nan,HP50,AT95
-257,smoochum, ice ,  psychic  ,HP45,AT30
-258,elekid,electric,  nan  ,HP45,AT63
-259,magby, fire , nan ,HP45,AT75
-260,miltank,normal,nan,HP95,AT80
-261,blissey,  normal  ,  nan  ,HP255,AT10
-262,raikou legandary,electric, nan ,HP90,AT85
-263,entei legandary,fire,nan,HP115,AT115
-264,suicune legandary, water , nan ,HP100,AT75
-265,larvitar, rock , ground ,HP50,AT64
-266,pupitar,rock,ground,HP70,AT84
-267,tyranitar,  rock  ,  dark  ,HP100,AT134
-268,tyranitarmega tyranitar,rock,dark,HP100,AT164
-269,lugia legandary,psychic,flying,HP106,AT90
-270,ho-oh legandary,  fire  , flying ,HP106,AT130
-271,celebi,  psychic  ,grass,HP100,AT100
-272,treecko, grass ,  nan  ,HP40,AT45
-273,grovyle,  grass  , nan ,HP50,AT65
-274,sceptile,grass,nan,HP70,AT85
-275,sceptilemega sceptile,grass,  dragon  ,HP70,AT110
-276,torchic, fire ,nan,HP45,AT60
-277,combusken,  fire  ,  fighting  ,HP60,AT85
-278,blaziken, fire ,  fighting  ,HP80,AT120
-279,blazikenmega blaziken,  fire  , fighting ,HP80,AT160
-280,mudkip,  water  ,  nan  ,HP50,AT70
-281,marshtomp,  water  , ground ,HP70,AT85
-282,swampert, water ,ground,HP100,AT110
-283,swampertmega swampert, water , ground ,HP100,AT150
-284,poochyena,  dark  ,  nan  ,HP35,AT55
-285,mightyena,dark,nan,HP70,AT90
-286,zigzagoon,normal, nan ,HP38,AT30
-287,linoone, normal ,nan,HP78,AT70
-288,wurmple,  bug  ,nan,HP45,AT45
-289,silcoon,bug, nan ,HP50,AT35
-290,beautifly, bug ,flying,HP60,AT70
-291,cascoon,  bug  ,  nan  ,HP50,AT35
-292,dustox, bug ,  poison  ,HP60,AT50
-293,lotad,water,grass,HP40,AT30
-294,lombre,water, grass ,HP60,AT50
-295,ludicolo,water,grass,HP80,AT70
-296,seedot,grass,  nan  ,HP40,AT40
-297,nuzleaf,  grass  , dark ,HP70,AT70
-298,shiftry,  grass  ,  dark  ,HP90,AT100
-299,taillow,normal,flying,HP40,AT55
-300,swellow, normal ,flying,HP60,AT85
-301,wingull,  water  ,flying,HP40,AT30
-302,pelipper,water, flying ,HP60,AT50
-303,ralts,psychic, fairy ,HP28,AT25
-304,kirlia, psychic ,fairy,HP38,AT35
-305,gardevoir,psychic,fairy,HP68,AT65
-306,gardevoirmega gardevoir, psychic ,  fairy  ,HP68,AT85
-307,surskit, bug ,water,HP40,AT30
-308,masquerain, bug , flying ,HP70,AT60
-309,shroomish,grass,  nan  ,HP60,AT40
-310,breloom, grass ,fighting,HP60,AT130
-311,slakoth, normal ,nan,HP60,AT60
-312,vigoroth,normal,  nan  ,HP80,AT80
-313,slaking,  normal  ,nan,HP150,AT160
-314,nincada, bug ,ground,HP31,AT45
-315,ninjask,  bug  ,flying,HP61,AT90
-316,shedinja,bug, ghost ,HP1,AT90
-317,whismur, normal , nan ,HP64,AT51
-318,loudred,normal,  nan  ,HP84,AT71
-319,exploud, normal , nan ,HP104,AT91
-320,makuhita,fighting,  nan  ,HP72,AT60
-321,hariyama, fighting ,  nan  ,HP144,AT120
-322,azurill,  normal  , fairy ,HP50,AT20
-323,nosepass,  rock  , nan ,HP30,AT45
-324,skitty,  normal  , nan ,HP50,AT45
-325,delcatty, normal , nan ,HP70,AT65
-326,sableye, dark ,  ghost  ,HP50,AT75
-327,sableyemega sableye,dark, ghost ,HP50,AT85
-328,mawile,  steel  ,  fairy  ,HP50,AT85
-329,mawilemega mawile,  steel  , fairy ,HP50,AT105
-330,aron,  steel  , rock ,HP50,AT70
-331,lairon, steel ,  rock  ,HP60,AT90
-332,aggron,steel, rock ,HP70,AT110
-333,aggronmega aggron, steel ,nan,HP70,AT140
-334,meditite,fighting,psychic,HP30,AT40
-335,medicham, fighting ,  psychic  ,HP60,AT60
-336,medichammega medicham, fighting , psychic ,HP60,AT100
-337,electrike,electric, nan ,HP40,AT45
-338,manectric,  electric  ,nan,HP70,AT75
-339,manectricmega manectric, electric ,nan,HP70,AT75
-340,plusle,  electric  , nan ,HP60,AT50
-341,minun,electric,nan,HP60,AT40
-342,volbeat, bug ,nan,HP65,AT73
-343,illumise,bug,nan,HP65,AT47
-344,roselia,grass,poison,HP50,AT60
-345,gulpin, poison , nan ,HP70,AT43
-346,swalot, poison ,  nan  ,HP100,AT73
-347,carvanha,water,dark,HP45,AT90
-348,sharpedo,  water  , dark ,HP70,AT120
-349,sharpedomega sharpedo,water, dark ,HP70,AT140
-350,wailmer,water, nan ,HP130,AT70
-351,wailord,  water  ,nan,HP170,AT90
-352,numel, fire ,  ground  ,HP60,AT60
-353,camerupt,fire,  ground  ,HP70,AT100
-354,cameruptmega camerupt,  fire  ,ground,HP70,AT120
-355,torkoal,fire,  nan  ,HP70,AT85
-356,spoink,psychic,nan,HP60,AT25
-357,grumpig, psychic ,nan,HP80,AT45
-358,spinda,  normal  , nan ,HP60,AT60
-359,trapinch, ground ,nan,HP45,AT100
-360,vibrava,ground,dragon,HP50,AT70
-361,flygon,  ground  ,  dragon  ,HP80,AT100
-362,cacnea,  grass  ,  nan  ,HP50,AT85
-363,cacturne,  grass  ,dark,HP70,AT115
-364,swablu, normal ,flying,HP45,AT40
-365,altaria,  dragon  ,flying,HP75,AT70
-366,altariamega altaria, dragon , fairy ,HP75,AT110
-367,zangoose,  normal  ,  nan  ,HP73,AT115
-368,seviper,  poison  , nan ,HP73,AT100
-369,lunatone, rock , psychic ,HP70,AT55
-370,solrock, rock ,  psychic  ,HP70,AT95
-371,barboach, water ,  ground  ,HP50,AT48
-372,whiscash,  water  ,  ground  ,HP110,AT78
-373,corphish,  water  ,nan,HP43,AT80
-374,crawdaunt,  water  ,  dark  ,HP63,AT120
-375,baltoy, ground , psychic ,HP40,AT40
-376,claydol, ground , psychic ,HP60,AT70
-377,lileep,  rock  ,grass,HP66,AT41
-378,cradily, rock ,grass,HP86,AT81
-379,anorith,rock, bug ,HP45,AT95
-380,armaldo,rock, bug ,HP75,AT125
-381,feebas,  water  ,  nan  ,HP20,AT15
-382,milotic, water , nan ,HP95,AT60
-383,castform,normal, nan ,HP70,AT70
-384,kecleon,  normal  ,nan,HP60,AT90
-385,shuppet,ghost,  nan  ,HP44,AT75
-386,banette,ghost,nan,HP64,AT115
-387,banettemega banette, ghost ,nan,HP64,AT165
-388,duskull,  ghost  ,nan,HP20,AT40
-389,dusclops,  ghost  ,  nan  ,HP40,AT70
-390,tropius, grass , flying ,HP99,AT68
-391,chimecho, psychic ,nan,HP65,AT50
-392,absol, dark , nan ,HP65,AT130
-393,absolmega absol, dark , nan ,HP65,AT150
-394,wynaut,  psychic  ,nan,HP95,AT23
-395,snorunt, ice , nan ,HP50,AT50
-396,glalie,ice,nan,HP80,AT80
-397,glaliemega glalie,ice,  nan  ,HP80,AT120
-398,spheal,ice,  water  ,HP70,AT40
-399,sealeo,  ice  ,  water  ,HP90,AT60
-400,walrein,  ice  ,  water  ,HP110,AT80
-401,clamperl,  water  ,nan,HP35,AT64
-402,huntail,water,nan,HP55,AT104
-403,gorebyss,water,  nan  ,HP55,AT84
-404,relicanth, water ,rock,HP100,AT90
-405,luvdisc,  water  , nan ,HP43,AT30
-406,bagon,dragon, nan ,HP45,AT75
-407,shelgon,dragon,nan,HP65,AT95
-408,salamence,  dragon  , flying ,HP95,AT135
-409,salamencemega salamence, dragon ,  flying  ,HP95,AT145
-410,beldum,  steel  , psychic ,HP40,AT55
-411,metang,  steel  ,psychic,HP60,AT75
-412,metagross, steel ,psychic,HP80,AT135
-413,metagrossmega metagross, steel ,psychic,HP80,AT145
-414,regirock legandary,  rock  , nan ,HP80,AT100
-415,regice legandary, ice ,nan,HP80,AT50
-416,registeel legandary,  steel  , nan ,HP80,AT75
-417,latias legandary,  dragon  ,psychic,HP80,AT80
-418,latiasmega latias legandary,  dragon  , psychic ,HP80,AT100
-419,latios legandary,  dragon  ,psychic,HP80,AT90
-420,latiosmega latios legandary,dragon,psychic,HP80,AT130
-421,kyogre legandary, water ,nan,HP100,AT100
-422,kyogreprimal kyogre legandary, water ,  nan  ,HP100,AT150
-423,groudon legandary,  ground  ,  nan  ,HP100,AT150
-424,groudonprimal groudon legandary,ground,  fire  ,HP100,AT180
-425,rayquaza legandary,dragon,  flying  ,HP105,AT150
-426,rayquazamega rayquaza legandary,dragon,  flying  ,HP105,AT180
-427,jirachi legandary,  steel  , psychic ,HP100,AT100
-428,deoxysnormal forme legandary,psychic,nan,HP50,AT150
-429,deoxysattack forme legandary, psychic ,  nan  ,HP50,AT180
-430,deoxysdefense forme legandary,psychic,  nan  ,HP50,AT70
-431,deoxysspeed forme legandary,psychic,  nan  ,HP50,AT95
-432,turtwig, grass ,nan,HP55,AT68
-433,grotle, grass ,nan,HP75,AT89
-434,torterra, grass , ground ,HP95,AT109
-435,chimchar, fire ,  nan  ,HP44,AT58
-436,monferno,fire, fighting ,HP64,AT78
-437,infernape,  fire  , fighting ,HP76,AT104
-438,piplup,water,nan,HP53,AT51
-439,prinplup, water ,nan,HP64,AT66
-440,empoleon,water,  steel  ,HP84,AT86
-441,starly,normal,flying,HP40,AT55
-442,staravia,  normal  ,flying,HP55,AT75
-443,staraptor, normal ,  flying  ,HP85,AT120
-444,bidoof,normal, nan ,HP59,AT45
-445,bibarel,  normal  ,  water  ,HP79,AT85
-446,kricketot,bug,nan,HP37,AT25
-447,kricketune,bug,  nan  ,HP77,AT85
-448,shinx,electric,  nan  ,HP45,AT65
-449,luxio,electric,nan,HP60,AT85
-450,luxray,electric,nan,HP80,AT120
-451,budew, grass ,poison,HP40,AT30
-452,roserade, grass ,poison,HP60,AT70
-453,cranidos,rock, nan ,HP67,AT125
-454,rampardos,rock,nan,HP97,AT165
-455,shieldon,  rock  , steel ,HP30,AT42
-456,bastiodon, rock ,  steel  ,HP60,AT52
-457,burmy, bug ,  nan  ,HP40,AT29
-458,wormadamplant cloak, bug , grass ,HP60,AT59
-459,wormadamsandy cloak,  bug  ,ground,HP60,AT79
-460,wormadamtrash cloak, bug , steel ,HP60,AT69
-461,mothim, bug ,flying,HP70,AT94
-462,combee,  bug  , flying ,HP30,AT30
-463,vespiquen,bug, flying ,HP70,AT80
-464,pachirisu,  electric  , nan ,HP60,AT45
-465,buizel,water,  nan  ,HP55,AT65
-466,floatzel,  water  ,nan,HP85,AT105
-467,cherubi, grass , nan ,HP45,AT35
-468,cherrim,grass, nan ,HP70,AT60
-469,shellos,  water  ,nan,HP76,AT48
-470,gastrodon, water , ground ,HP111,AT83
-471,ambipom,  normal  ,  nan  ,HP75,AT100
-472,drifloon,ghost,flying,HP90,AT50
-473,drifblim,  ghost  ,flying,HP150,AT80
-474,buneary, normal , nan ,HP55,AT66
-475,lopunny,  normal  ,nan,HP65,AT76
-476,lopunnymega lopunny, normal ,fighting,HP65,AT136
-477,mismagius,ghost, nan ,HP60,AT60
-478,honchkrow, dark , flying ,HP100,AT125
-479,glameow,  normal  ,nan,HP49,AT55
-480,purugly,normal, nan ,HP71,AT82
-481,chingling,psychic, nan ,HP45,AT30
-482,stunky, poison , dark ,HP63,AT63
-483,skuntank, poison , dark ,HP103,AT93
-484,bronzor,  steel  , psychic ,HP57,AT24
-485,bronzong,  steel  ,  psychic  ,HP67,AT89
-486,bonsly, rock ,nan,HP50,AT80
-487,mime jr.,psychic,  fairy  ,HP20,AT25
-488,happiny,  normal  ,  nan  ,HP100,AT5
-489,chatot, normal , flying ,HP76,AT65
-490,spiritomb, ghost , dark ,HP50,AT92
-491,gible,  dragon  ,ground,HP58,AT70
-492,gabite,dragon, ground ,HP68,AT90
-493,garchomp, dragon ,ground,HP108,AT130
-494,garchompmega garchomp, dragon , ground ,HP108,AT170
-495,munchlax,  normal  ,  nan  ,HP135,AT85
-496,riolu,fighting, nan ,HP40,AT70
-497,lucario, fighting , steel ,HP70,AT110
-498,lucariomega lucario, fighting ,steel,HP70,AT145
-499,hippopotas,ground,  nan  ,HP68,AT72
-500,hippowdon,  ground  ,nan,HP108,AT112
-501,skorupi,  poison  ,bug,HP40,AT50
-502,drapion,  poison  ,dark,HP70,AT90
-503,croagunk, poison , fighting ,HP48,AT61
-504,toxicroak, poison ,fighting,HP83,AT106
-505,carnivine,grass, nan ,HP74,AT100
-506,finneon,water,nan,HP49,AT49
-507,lumineon, water , nan ,HP69,AT69
-508,mantyke,water, flying ,HP45,AT20
-509,snover,  grass  ,  ice  ,HP60,AT62
-510,abomasnow,  grass  , ice ,HP90,AT92
-511,abomasnowmega abomasnow, grass ,  ice  ,HP90,AT132
-512,weavile,dark,ice,HP70,AT120
-513,magnezone,electric, steel ,HP70,AT70
-514,lickilicky,normal,nan,HP110,AT85
-515,rhyperior, ground ,  rock  ,HP115,AT140
-516,tangrowth,  grass  , nan ,HP100,AT100
-517,electivire,electric, nan ,HP75,AT123
-518,magmortar,fire, nan ,HP75,AT95
-519,togekiss,fairy, flying ,HP85,AT50
-520,yanmega, bug ,  flying  ,HP86,AT76
-521,leafeon,grass, nan ,HP65,AT110
-522,glaceon,  ice  ,  nan  ,HP65,AT60
-523,gliscor,ground,  flying  ,HP75,AT95
-524,mamoswine, ice , ground ,HP110,AT130
-525,porygon-z,normal,nan,HP85,AT80
-526,gallade,psychic,fighting,HP68,AT125
-527,gallademega gallade,  psychic  ,fighting,HP68,AT165
-528,probopass,  rock  ,steel,HP60,AT55
-529,dusknoir,  ghost  ,  nan  ,HP45,AT100
-530,froslass, ice , ghost ,HP70,AT80
-531,rotom,electric,ghost,HP50,AT50
-532,rotomheat rotom, electric , fire ,HP50,AT65
-533,rotomwash rotom,electric,water,HP50,AT65
-534,rotomfrost rotom,electric,ice,HP50,AT65
-535,rotomfan rotom,electric, flying ,HP50,AT65
-536,rotommow rotom, electric , grass ,HP50,AT65
-537,uxie legandary,psychic,  nan  ,HP75,AT75
-538,mesprit legandary, psychic ,  nan  ,HP80,AT105
-539,azelf legandary,psychic,nan,HP75,AT125
-540,dialga legandary,steel,  dragon  ,HP100,AT120
-541,palkia legandary,  water  ,  dragon  ,HP90,AT120
-542,heatran legandary, fire ,  steel  ,HP91,AT90
-543,regigigas legandary, normal ,  nan  ,HP110,AT160
-544,giratinaaltered forme legandary,ghost, dragon ,HP150,AT100
-545,giratinaorigin forme legandary,  ghost  , dragon ,HP150,AT120
-546,cresselia,psychic, nan ,HP120,AT70
-547,phione, water ,  nan  ,HP80,AT80
-548,manaphy,  water  ,  nan  ,HP100,AT100
-549,darkrai legandary, dark ,  nan  ,HP70,AT90
-550,shayminland forme legandary,  grass  ,nan,HP100,AT100
-551,shayminsky forme legandary,grass,  flying  ,HP100,AT103
-552,arceus legandary,normal,nan,HP120,AT120
-553,victini legandary,psychic,fire,HP100,AT100
-554,snivy, grass ,  nan  ,HP45,AT45
-555,servine,grass,nan,HP60,AT60
-556,serperior,grass, nan ,HP75,AT75
-557,tepig,  fire  ,nan,HP65,AT63
-558,pignite, fire , fighting ,HP90,AT93
-559,emboar,fire,fighting,HP110,AT123
-560,oshawott, water ,  nan  ,HP55,AT55
-561,dewott,water,nan,HP75,AT75
-562,samurott,water, nan ,HP95,AT100
-563,patrat,  normal  ,  nan  ,HP45,AT55
-564,watchog,  normal  , nan ,HP60,AT85
-565,lillipup,  normal  ,  nan  ,HP45,AT60
-566,herdier,  normal  , nan ,HP65,AT80
-567,stoutland,normal, nan ,HP85,AT110
-568,purrloin,  dark  ,  nan  ,HP41,AT50
-569,liepard,dark,nan,HP64,AT88
-570,pansage,  grass  ,nan,HP50,AT53
-571,simisage, grass , nan ,HP75,AT98
-572,pansear,fire, nan ,HP50,AT53
-573,simisear,  fire  ,  nan  ,HP75,AT98
-574,panpour,  water  ,nan,HP50,AT53
-575,simipour,water,  nan  ,HP75,AT98
-576,munna,psychic,nan,HP76,AT25
-577,musharna,  psychic  ,  nan  ,HP116,AT55
-578,pidove, normal ,  flying  ,HP50,AT55
-579,tranquill,  normal  , flying ,HP62,AT77
-580,unfezant, normal ,flying,HP80,AT115
-581,blitzle,electric,nan,HP45,AT60
-582,zebstrika,  electric  ,nan,HP75,AT100
-583,roggenrola,rock,nan,HP55,AT75
-584,boldore,rock, nan ,HP70,AT105
-585,gigalith, rock , nan ,HP85,AT135
-586,woobat, psychic , flying ,HP55,AT45
-587,swoobat,psychic,  flying  ,HP67,AT57
-588,drilbur, ground ,nan,HP60,AT85
-589,excadrill,ground,  steel  ,HP110,AT135
-590,audino, normal , nan ,HP103,AT60
-591,audinomega audino, normal ,  fairy  ,HP103,AT60
-592,timburr,fighting, nan ,HP75,AT80
-593,gurdurr,  fighting  ,nan,HP85,AT105
-594,conkeldurr,  fighting  ,  nan  ,HP105,AT140
-595,tympole,  water  , nan ,HP50,AT50
-596,palpitoad,  water  ,  ground  ,HP75,AT65
-597,seismitoad,  water  ,ground,HP105,AT95
-598,throh,  fighting  ,  nan  ,HP120,AT100
-599,sawk,fighting,  nan  ,HP75,AT125
-600,sewaddle,bug, grass ,HP45,AT53
-601,swadloon, bug ,grass,HP55,AT63
-602,leavanny,  bug  , grass ,HP75,AT103
-603,venipede,bug,  poison  ,HP30,AT45
-604,whirlipede, bug ,poison,HP40,AT55
-605,scolipede,bug,  poison  ,HP60,AT100
-606,cottonee, grass ,fairy,HP40,AT27
-607,whimsicott,  grass  ,  fairy  ,HP60,AT67
-608,petilil,  grass  , nan ,HP45,AT35
-609,lilligant,  grass  ,  nan  ,HP70,AT60
-610,basculin, water ,  nan  ,HP70,AT92
-611,sandile,  ground  ,  dark  ,HP50,AT72
-612,krokorok,  ground  ,dark,HP60,AT82
-613,krookodile, ground ,dark,HP95,AT117
-614,darumaka,fire,nan,HP70,AT90
-615,darmanitanstandard mode, fire ,nan,HP105,AT140
-616,darmanitanzen mode,  fire  ,psychic,HP105,AT30
-617,maractus,  grass  ,nan,HP75,AT86
-618,dwebble, bug ,  rock  ,HP50,AT65
-619,crustle,  bug  , rock ,HP70,AT95
-620,scraggy,  dark  , fighting ,HP50,AT75
-621,scrafty,dark,  fighting  ,HP65,AT90
-622,sigilyph, psychic ,  flying  ,HP72,AT58
-623,yamask, ghost ,nan,HP38,AT30
-624,cofagrigus,ghost, nan ,HP58,AT50
-625,tirtouga,  water  , rock ,HP54,AT78
-626,carracosta,  water  , rock ,HP74,AT108
-627,archen,rock,  flying  ,HP55,AT112
-628,archeops,  rock  , flying ,HP75,AT140
-629,trubbish, poison ,  nan  ,HP50,AT50
-630,garbodor,poison,  nan  ,HP80,AT95
-631,zorua, dark , nan ,HP40,AT65
-632,zoroark,dark,  nan  ,HP60,AT105
-633,minccino, normal ,nan,HP55,AT50
-634,cinccino,normal,  nan  ,HP75,AT95
-635,gothita,  psychic  , nan ,HP45,AT30
-636,gothorita,psychic,  nan  ,HP60,AT45
-637,gothitelle,psychic,  nan  ,HP70,AT55
-638,solosis,  psychic  ,  nan  ,HP45,AT30
-639,duosion, psychic , nan ,HP65,AT40
-640,reuniclus,  psychic  ,nan,HP110,AT65
-641,ducklett,water,  flying  ,HP62,AT44
-642,swanna,  water  , flying ,HP75,AT87
-643,vanillite, ice , nan ,HP36,AT50
-644,vanillish,ice,nan,HP51,AT65
-645,vanilluxe, ice , nan ,HP71,AT95
-646,deerling,normal,  grass  ,HP60,AT60
-647,sawsbuck,  normal  ,  grass  ,HP80,AT100
-648,emolga,  electric  ,  flying  ,HP55,AT75
-649,karrablast,bug,  nan  ,HP50,AT75
-650,escavalier,bug,steel,HP70,AT135
-651,foongus,grass,  poison  ,HP69,AT55
-652,amoonguss,grass,poison,HP114,AT85
-653,frillish,  water  ,ghost,HP55,AT40
-654,jellicent, water ,  ghost  ,HP100,AT60
-655,alomomola, water , nan ,HP165,AT75
-656,joltik,  bug  ,electric,HP50,AT47
-657,galvantula,  bug  , electric ,HP70,AT77
-658,ferroseed,  grass  ,steel,HP44,AT50
-659,ferrothorn,grass, steel ,HP74,AT94
-660,klink,steel,nan,HP40,AT55
-661,klang,steel,nan,HP60,AT80
-662,klinklang,  steel  , nan ,HP60,AT100
-663,tynamo,electric,nan,HP35,AT55
-664,eelektrik, electric , nan ,HP65,AT85
-665,eelektross,electric, nan ,HP85,AT115
-666,elgyem,psychic, nan ,HP55,AT55
-667,beheeyem, psychic ,  nan  ,HP75,AT75
-668,litwick,  ghost  , fire ,HP50,AT30
-669,lampent,  ghost  ,fire,HP60,AT40
-670,chandelure,ghost,  fire  ,HP60,AT55
-671,axew,  dragon  ,  nan  ,HP46,AT87
-672,fraxure,  dragon  , nan ,HP66,AT117
-673,haxorus,dragon,nan,HP76,AT147
-674,cubchoo, ice ,  nan  ,HP55,AT70
-675,beartic,  ice  , nan ,HP95,AT110
-676,cryogonal,  ice  ,  nan  ,HP70,AT50
-677,shelmet,bug, nan ,HP50,AT40
-678,accelgor, bug ,  nan  ,HP80,AT70
-679,stunfisk,ground,  electric  ,HP109,AT66
-680,mienfoo,  fighting  ,nan,HP45,AT85
-681,mienshao, fighting ,nan,HP65,AT125
-682,druddigon,  dragon  ,nan,HP77,AT120
-683,golett,ground,  ghost  ,HP59,AT74
-684,golurk,ground, ghost ,HP89,AT124
-685,pawniard,  dark  ,  steel  ,HP45,AT85
-686,bisharp,  dark  , steel ,HP65,AT125
-687,bouffalant,normal,nan,HP95,AT110
-688,rufflet,  normal  , flying ,HP70,AT83
-689,braviary,normal, flying ,HP100,AT123
-690,vullaby,  dark  ,flying,HP70,AT55
-691,mandibuzz,dark,  flying  ,HP110,AT65
-692,heatmor,  fire  ,nan,HP85,AT97
-693,durant,  bug  ,steel,HP58,AT109
-694,deino,  dark  , dragon ,HP52,AT65
-695,zweilous,  dark  , dragon ,HP72,AT85
-696,hydreigon,  dark  ,dragon,HP92,AT105
-697,larvesta,  bug  , fire ,HP55,AT85
-698,volcarona,bug,  fire  ,HP85,AT60
-699,cobalion legandary,  steel  ,fighting,HP91,AT90
-700,terrakion legandary,  rock  ,  fighting  ,HP91,AT129
-701,virizion legandary,  grass  , fighting ,HP91,AT90
-702,tornadusincarnate forme legandary,  flying  ,  nan  ,HP79,AT115
-703,tornadustherian forme legandary,flying, nan ,HP79,AT100
-704,thundurusincarnate forme legandary,electric, flying ,HP79,AT115
-705,thundurustherian forme legandary,electric,  flying  ,HP79,AT105
-706,reshiram legandary,  dragon  , fire ,HP100,AT120
-707,zekrom legandary,  dragon  , electric ,HP100,AT150
-708,landorusincarnate forme legandary,ground,  flying  ,HP89,AT125
-709,landorustherian forme legandary,ground,  flying  ,HP89,AT145
-710,kyurem legandary, dragon ,ice,HP125,AT130
-711,kyuremblack kyurem legandary,  dragon  ,  ice  ,HP125,AT170
-712,kyuremwhite kyurem legandary,  dragon  ,  ice  ,HP125,AT120
-713,keldeoordinary forme, water ,fighting,HP91,AT72
-714,keldeoresolute forme, water ,  fighting  ,HP91,AT72
-715,meloettaaria forme,  normal  ,  psychic  ,HP100,AT77
-716,meloettapirouette forme,  normal  ,  fighting  ,HP100,AT128
-717,genesect, bug ,  steel  ,HP71,AT120
-718,chespin, grass ,  nan  ,HP56,AT61
-719,quilladin,  grass  ,  nan  ,HP61,AT78
-720,chesnaught,grass,fighting,HP88,AT107
-721,fennekin, fire ,nan,HP40,AT45
-722,braixen,  fire  ,  nan  ,HP59,AT59
-723,delphox,fire, psychic ,HP75,AT69
-724,froakie, water ,  nan  ,HP41,AT56
-725,frogadier,  water  , nan ,HP54,AT63
-726,greninja,water, dark ,HP72,AT95
-727,bunnelby,normal, nan ,HP38,AT36
-728,diggersby,normal,  ground  ,HP85,AT56
-729,fletchling, normal ,  flying  ,HP45,AT50
-730,fletchinder,fire,  flying  ,HP62,AT73
-731,talonflame, fire , flying ,HP78,AT81
-732,scatterbug,bug, nan ,HP38,AT35
-733,spewpa, bug , nan ,HP45,AT22
-734,vivillon,  bug  ,flying,HP80,AT52
-735,litleo, fire ,normal,HP62,AT50
-736,pyroar,fire, normal ,HP86,AT68
-737,flabébé,  fairy  ,nan,HP44,AT38
-738,floette,fairy,  nan  ,HP54,AT45
-739,florges, fairy ,  nan  ,HP78,AT65
-740,skiddo,  grass  , nan ,HP66,AT65
-741,gogoat, grass , nan ,HP123,AT100
-742,pancham,  fighting  ,nan,HP67,AT82
-743,pangoro, fighting ,dark,HP95,AT124
-744,furfrou, normal , nan ,HP75,AT80
-745,espurr,  psychic  ,nan,HP62,AT48
-746,meowsticmale, psychic ,  nan  ,HP74,AT48
-747,meowsticfemale, psychic , nan ,HP74,AT48
-748,honedge, steel ,ghost,HP45,AT80
-749,doublade,steel, ghost ,HP59,AT110
-750,aegislashblade forme, steel ,  ghost  ,HP60,AT150
-751,aegislashshield forme,steel,  ghost  ,HP60,AT50
-752,spritzee,fairy, nan ,HP78,AT52
-753,aromatisse, fairy , nan ,HP101,AT72
-754,swirlix,fairy, nan ,HP62,AT48
-755,slurpuff,  fairy  , nan ,HP82,AT80
-756,inkay,  dark  ,  psychic  ,HP53,AT54
-757,malamar, dark ,psychic,HP86,AT92
-758,binacle,  rock  , water ,HP42,AT52
-759,barbaracle,  rock  ,  water  ,HP72,AT105
-760,skrelp,  poison  , water ,HP50,AT60
-761,dragalge,  poison  , dragon ,HP65,AT75
-762,clauncher,  water  ,nan,HP50,AT53
-763,clawitzer, water , nan ,HP71,AT73
-764,helioptile,electric, normal ,HP44,AT38
-765,heliolisk,electric,normal,HP62,AT55
-766,tyrunt,rock,dragon,HP58,AT89
-767,tyrantrum,rock,  dragon  ,HP82,AT121
-768,amaura,  rock  ,  ice  ,HP77,AT59
-769,aurorus,rock,  ice  ,HP123,AT77
-770,sylveon,  fairy  ,  nan  ,HP95,AT65
-771,hawlucha, fighting , flying ,HP78,AT92
-772,dedenne, electric ,fairy,HP67,AT58
-773,carbink,rock,fairy,HP50,AT50
-774,goomy,dragon,nan,HP45,AT50
-775,sliggoo,dragon, nan ,HP68,AT75
-776,goodra, dragon , nan ,HP90,AT100
-777,klefki, steel , fairy ,HP57,AT80
-778,phantump, ghost ,grass,HP43,AT70
-779,trevenant,ghost,  grass  ,HP85,AT110
-780,pumpkabooaverage size,  ghost  , grass ,HP49,AT66
-781,pumpkaboosmall size,ghost,grass,HP44,AT66
-782,pumpkaboolarge size,  ghost  ,grass,HP54,AT66
-783,pumpkaboosuper size,ghost, grass ,HP59,AT66
-784,gourgeistaverage size,ghost,  grass  ,HP65,AT90
-785,gourgeistsmall size, ghost , grass ,HP55,AT85
-786,gourgeistlarge size,  ghost  , grass ,HP75,AT95
-787,gourgeistsuper size, ghost , grass ,HP85,AT100
-788,bergmite, ice , nan ,HP55,AT69
-789,avalugg,  ice  ,  nan  ,HP95,AT117
-790,noibat,  flying  ,dragon,HP40,AT30
-791,noivern,flying, dragon ,HP85,AT70
-792,xerneas legandary,  fairy  , nan ,HP126,AT131
-793,yveltal legandary,  dark  ,flying,HP126,AT131
-794,zygarde50% forme legandary,  dragon  ,  ground  ,HP108,AT100
-795,diancie legandary,rock,  fairy  ,HP50,AT100
-796,dianciemega diancie legandary, rock , fairy ,HP50,AT160
-797,hoopahoopa confined legandary,psychic, ghost ,HP80,AT110
-798,hoopahoopa unbound legandary, psychic ,dark,HP80,AT160
-799,volcanion legandary, fire ,  water  ,HP80,AT110
+Name,Type 1,Type 2,Stats
+bulbasaur,grass, poison ,HP45-AT49
+ivysaur,grass, poison ,HP60-AT62
+venusaur,  grass  ,  poison  ,HP80-AT82
+venusaurmega venusaur,  grass  ,  poison  ,HP80-AT100
+charmander, fire , nan ,HP39-AT52
+charmeleon,fire, nan ,HP58-AT64
+charizard,  fire  , flying ,HP78-AT84
+charizardmega charizard x,fire, dragon ,HP78-AT130
+charizardmega charizard y, fire ,  flying  ,HP101-AT104
+squirtle, water , nan ,HP44-AT48
+wartortle,water,nan,HP59-AT63
+blastoise, water , nan ,HP79-AT83
+blastoisemega blastoise, water , nan ,HP79-AT103
+caterpie,  bug  ,nan,HP45-AT30
+metapod,bug,nan,HP50-AT20
+butterfree,  bug  , flying ,HP60-AT45
+weedle, bug ,poison,HP40-AT35
+kakuna,  bug  ,poison,HP45-AT25
+beedrill,bug, poison ,HP65-AT90
+beedrillmega beedrill, bug ,  poison  ,HP65-AT150
+pidgey,normal,flying,HP40-AT45
+pidgeotto,normal,flying,HP63-AT60
+pidgeot,normal,flying,HP83-AT80
+pidgeotmega pidgeot,normal,flying,HP83-AT80
+rattata, normal ,  nan  ,HP30-AT56
+raticate, normal , nan ,HP55-AT81
+spearow,normal,  flying  ,HP40-AT60
+fearow,  normal  ,flying,HP65-AT90
+ekans,  poison  ,  nan  ,HP35-AT60
+arbok,  poison  ,  nan  ,HP60-AT85
+pikachu,electric,  nan  ,HP35-AT55
+raichu, electric , nan ,HP60-AT90
+sandshrew,  ground  , nan ,HP50-AT75
+sandslash, ground ,nan,HP75-AT100
+nidoran♀, poison ,nan,HP55-AT47
+nidorina,  poison  ,  nan  ,HP70-AT62
+nidoqueen,  poison  , ground ,HP90-AT92
+nidoran♂, poison ,nan,HP46-AT57
+nidorino,  poison  , nan ,HP61-AT72
+nidoking,  poison  ,  ground  ,HP81-AT102
+clefairy, fairy , nan ,HP70-AT45
+clefable,fairy,nan,HP95-AT70
+vulpix,  fire  ,  nan  ,HP38-AT41
+ninetales,  fire  ,  nan  ,HP73-AT76
+jigglypuff,  normal  ,fairy,HP115-AT45
+wigglytuff,  normal  ,fairy,HP140-AT70
+zubat,  poison  , flying ,HP40-AT45
+golbat, poison , flying ,HP75-AT80
+oddish, grass ,  poison  ,HP45-AT50
+gloom,grass,poison,HP60-AT65
+vileplume, grass ,poison,HP75-AT80
+paras,bug,grass,HP35-AT70
+parasect,bug, grass ,HP60-AT95
+venonat, bug ,poison,HP60-AT55
+venomoth,bug,  poison  ,HP70-AT65
+diglett, ground ,  nan  ,HP10-AT55
+dugtrio, ground ,  nan  ,HP35-AT80
+meowth,normal,nan,HP40-AT45
+persian,normal,nan,HP65-AT70
+psyduck,water,  nan  ,HP50-AT52
+golduck, water ,  nan  ,HP80-AT82
+mankey,fighting,nan,HP40-AT80
+primeape,  fighting  ,nan,HP65-AT105
+growlithe,fire,  nan  ,HP55-AT70
+arcanine,  fire  ,  nan  ,HP90-AT110
+poliwag,water, nan ,HP40-AT50
+poliwhirl,  water  , nan ,HP65-AT65
+poliwrath,  water  ,fighting,HP90-AT95
+abra,  psychic  ,nan,HP25-AT20
+kadabra, psychic ,  nan  ,HP40-AT35
+alakazam, psychic ,nan,HP55-AT50
+alakazammega alakazam,psychic, nan ,HP55-AT50
+machop,fighting,nan,HP70-AT80
+machoke, fighting ,nan,HP80-AT100
+machamp,  fighting  ,  nan  ,HP90-AT130
+bellsprout,  grass  , poison ,HP50-AT75
+weepinbell,  grass  ,poison,HP65-AT90
+victreebel,  grass  ,  poison  ,HP80-AT105
+tentacool, water ,poison,HP40-AT40
+tentacruel, water , poison ,HP80-AT70
+geodude,  rock  ,  ground  ,HP40-AT80
+graveler, rock ,  ground  ,HP55-AT95
+golem,  rock  , ground ,HP80-AT120
+ponyta, fire ,  nan  ,HP50-AT85
+rapidash, fire ,nan,HP65-AT100
+slowpoke,  water  , psychic ,HP90-AT65
+slowbro,water, psychic ,HP95-AT75
+slowbromega slowbro, water ,psychic,HP95-AT75
+magnemite,electric,  steel  ,HP25-AT35
+magneton,  electric  ,  steel  ,HP50-AT60
+farfetch'd,  normal  ,flying,HP52-AT65
+doduo, normal ,flying,HP35-AT85
+dodrio,  normal  ,  flying  ,HP60-AT110
+seel,  water  ,  nan  ,HP65-AT45
+dewgong, water ,  ice  ,HP90-AT70
+grimer,poison,  nan  ,HP80-AT80
+muk,poison,nan,HP105-AT105
+shellder, water , nan ,HP30-AT65
+cloyster, water , ice ,HP50-AT95
+gastly,ghost, poison ,HP30-AT35
+haunter,ghost,  poison  ,HP45-AT50
+gengar,ghost,  poison  ,HP60-AT65
+gengarmega gengar, ghost ,poison,HP60-AT65
+onix,rock, ground ,HP35-AT45
+drowzee, psychic ,  nan  ,HP60-AT48
+hypno,  psychic  ,  nan  ,HP85-AT73
+krabby,  water  ,  nan  ,HP30-AT105
+kingler, water ,nan,HP55-AT130
+voltorb, electric ,nan,HP40-AT30
+electrode,electric,  nan  ,HP60-AT50
+exeggcute, grass , psychic ,HP60-AT40
+exeggutor, grass , psychic ,HP95-AT95
+cubone, ground , nan ,HP50-AT50
+marowak,  ground  ,nan,HP60-AT80
+hitmonlee,  fighting  ,nan,HP50-AT120
+hitmonchan, fighting , nan ,HP50-AT105
+lickitung,normal, nan ,HP90-AT55
+koffing,poison,  nan  ,HP40-AT65
+weezing,poison,nan,HP65-AT90
+rhyhorn,  ground  ,rock,HP80-AT85
+rhydon, ground ,  rock  ,HP105-AT130
+chansey,  normal  ,nan,HP250-AT5
+tangela,  grass  ,  nan  ,HP65-AT55
+kangaskhan, normal , nan ,HP105-AT95
+kangaskhanmega kangaskhan, normal ,nan,HP105-AT125
+horsea,  water  ,  nan  ,HP30-AT40
+seadra,water, nan ,HP55-AT65
+goldeen,water,  nan  ,HP45-AT67
+seaking,water,  nan  ,HP80-AT92
+staryu, water ,nan,HP30-AT45
+starmie,  water  , psychic ,HP60-AT75
+mr. mime, psychic ,fairy,HP40-AT45
+scyther,bug,  flying  ,HP70-AT110
+jynx,ice,  psychic  ,HP65-AT50
+electabuzz, electric ,  nan  ,HP65-AT83
+magmar,  fire  ,  nan  ,HP65-AT95
+pinsir,bug,  nan  ,HP65-AT125
+pinsirmega pinsir,bug,  flying  ,HP65-AT155
+tauros,normal,  nan  ,HP75-AT100
+magikarp,water,nan,HP20-AT10
+gyarados,water,flying,HP95-AT125
+gyaradosmega gyarados,  water  , dark ,HP95-AT155
+lapras,  water  , ice ,HP130-AT85
+ditto, normal , nan ,HP48-AT48
+eevee, normal ,nan,HP55-AT55
+vaporeon, water ,  nan  ,HP130-AT65
+jolteon,electric, nan ,HP65-AT65
+flareon,  fire  , nan ,HP65-AT130
+porygon, normal ,  nan  ,HP65-AT60
+omanyte,  rock  ,  water  ,HP35-AT40
+omastar, rock , water ,HP70-AT60
+kabuto,  rock  ,  water  ,HP30-AT80
+kabutops, rock ,  water  ,HP60-AT115
+aerodactyl, rock ,flying,HP80-AT105
+aerodactylmega aerodactyl,rock,flying,HP80-AT135
+snorlax, normal , nan ,HP160-AT110
+articuno legandary,  ice  ,  flying  ,HP90-AT85
+zapdos legandary,electric, flying ,HP90-AT90
+moltres legandary,  fire  ,  flying  ,HP90-AT100
+dratini,  dragon  , nan ,HP41-AT64
+dragonair,  dragon  ,  nan  ,HP61-AT84
+dragonite,dragon,flying,HP91-AT134
+mewtwo legandary,psychic,  nan  ,HP106-AT110
+mewtwomega mewtwo x legandary,  psychic  ,  fighting  ,HP106-AT190
+mewtwomega mewtwo y legandary,psychic,  nan  ,HP106-AT150
+mew,psychic,  nan  ,HP100-AT100
+chikorita,grass,  nan  ,HP45-AT49
+bayleef,  grass  ,nan,HP60-AT62
+meganium,  grass  ,nan,HP80-AT82
+cyndaquil,  fire  ,nan,HP39-AT52
+quilava, fire ,  nan  ,HP58-AT64
+typhlosion,  fire  , nan ,HP78-AT84
+totodile,  water  ,  nan  ,HP50-AT65
+croconaw,  water  , nan ,HP65-AT80
+feraligatr,water,nan,HP85-AT105
+sentret, normal ,  nan  ,HP35-AT46
+furret, normal , nan ,HP85-AT76
+hoothoot, normal ,flying,HP60-AT30
+noctowl,  normal  ,  flying  ,HP100-AT50
+ledyba,bug,  flying  ,HP40-AT20
+ledian, bug ,  flying  ,HP55-AT35
+spinarak,  bug  ,  poison  ,HP40-AT60
+ariados,  bug  ,  poison  ,HP70-AT90
+crobat,poison,flying,HP85-AT90
+chinchou,  water  ,electric,HP75-AT38
+lanturn,  water  ,electric,HP125-AT58
+pichu,  electric  , nan ,HP20-AT40
+cleffa, fairy ,  nan  ,HP50-AT25
+igglybuff,normal, fairy ,HP90-AT30
+togepi,  fairy  , nan ,HP35-AT20
+togetic,  fairy  , flying ,HP55-AT40
+natu,  psychic  ,flying,HP40-AT50
+xatu,  psychic  , flying ,HP65-AT75
+mareep,  electric  , nan ,HP55-AT40
+flaaffy,electric,  nan  ,HP70-AT55
+ampharos,electric, nan ,HP90-AT75
+ampharosmega ampharos,  electric  , dragon ,HP90-AT95
+bellossom, grass ,  nan  ,HP75-AT80
+marill,water,  fairy  ,HP70-AT20
+azumarill,water,  fairy  ,HP100-AT50
+sudowoodo, rock ,  nan  ,HP70-AT100
+politoed, water ,  nan  ,HP90-AT75
+hoppip,grass, flying ,HP35-AT35
+skiploom,grass,  flying  ,HP55-AT45
+jumpluff,grass,flying,HP75-AT55
+aipom,normal, nan ,HP55-AT70
+sunkern,  grass  ,  nan  ,HP30-AT30
+sunflora, grass ,nan,HP75-AT75
+yanma,bug,flying,HP65-AT65
+wooper,  water  ,ground,HP55-AT45
+quagsire,water,ground,HP95-AT85
+espeon,  psychic  ,  nan  ,HP65-AT65
+umbreon,dark,nan,HP95-AT65
+murkrow,dark,flying,HP60-AT85
+slowking, water ,  psychic  ,HP95-AT75
+misdreavus,  ghost  , nan ,HP60-AT60
+unown, psychic ,  nan  ,HP48-AT72
+wobbuffet,psychic,  nan  ,HP190-AT33
+girafarig, normal ,psychic,HP70-AT80
+pineco,bug,nan,HP50-AT65
+forretress,bug, steel ,HP75-AT90
+dunsparce, normal , nan ,HP100-AT70
+gligar,ground, flying ,HP65-AT75
+steelix,  steel  , ground ,HP75-AT85
+steelixmega steelix,steel, ground ,HP75-AT125
+snubbull,fairy,nan,HP60-AT80
+granbull,  fairy  ,nan,HP90-AT120
+qwilfish,  water  , poison ,HP65-AT95
+scizor, bug , steel ,HP70-AT130
+scizormega scizor, bug ,  steel  ,HP70-AT150
+shuckle,  bug  ,  rock  ,HP20-AT10
+heracross,  bug  , fighting ,HP80-AT125
+heracrossmega heracross,  bug  , fighting ,HP80-AT185
+sneasel,  dark  ,  ice  ,HP55-AT95
+teddiursa,normal,  nan  ,HP60-AT80
+ursaring, normal , nan ,HP90-AT130
+slugma, fire ,nan,HP40-AT40
+magcargo,fire, rock ,HP50-AT50
+swinub,  ice  ,  ground  ,HP50-AT50
+piloswine, ice ,  ground  ,HP100-AT100
+corsola,water,rock,HP55-AT55
+remoraid,water,nan,HP35-AT65
+octillery,water, nan ,HP75-AT105
+delibird,  ice  , flying ,HP45-AT55
+mantine, water , flying ,HP65-AT40
+skarmory,steel,  flying  ,HP65-AT80
+houndour, dark , fire ,HP45-AT60
+houndoom,  dark  ,  fire  ,HP75-AT90
+houndoommega houndoom, dark ,  fire  ,HP75-AT90
+kingdra, water ,  dragon  ,HP75-AT95
+phanpy,ground,nan,HP90-AT60
+donphan,ground,nan,HP90-AT120
+porygon2,normal,nan,HP85-AT80
+stantler,  normal  ,  nan  ,HP73-AT95
+smeargle,normal,  nan  ,HP55-AT20
+tyrogue,fighting,nan,HP35-AT35
+hitmontop,  fighting  ,  nan  ,HP50-AT95
+smoochum,ice,psychic,HP45-AT30
+elekid,  electric  ,nan,HP45-AT63
+magby,  fire  ,  nan  ,HP45-AT75
+miltank, normal ,  nan  ,HP95-AT80
+blissey,normal, nan ,HP255-AT10
+raikou legandary,  electric  ,nan,HP90-AT85
+entei legandary,fire,  nan  ,HP115-AT115
+suicune legandary,water,nan,HP100-AT75
+larvitar, rock ,  ground  ,HP50-AT64
+pupitar,  rock  ,  ground  ,HP70-AT84
+tyranitar,rock,  dark  ,HP100-AT134
+tyranitarmega tyranitar, rock ,dark,HP100-AT164
+lugia legandary, psychic ,  flying  ,HP106-AT90
+ho-oh legandary,fire,flying,HP106-AT130
+celebi,psychic,  grass  ,HP100-AT100
+treecko,  grass  ,nan,HP40-AT45
+grovyle,grass,  nan  ,HP50-AT65
+sceptile,  grass  ,  nan  ,HP70-AT85
+sceptilemega sceptile,grass,  dragon  ,HP70-AT110
+torchic,fire,nan,HP45-AT60
+combusken,  fire  ,  fighting  ,HP60-AT85
+blaziken,  fire  , fighting ,HP80-AT120
+blazikenmega blaziken,  fire  ,fighting,HP80-AT160
+mudkip,water,  nan  ,HP50-AT70
+marshtomp,  water  , ground ,HP70-AT85
+swampert, water , ground ,HP100-AT110
+swampertmega swampert,  water  , ground ,HP100-AT150
+poochyena,dark,  nan  ,HP35-AT55
+mightyena, dark , nan ,HP70-AT90
+zigzagoon,normal, nan ,HP38-AT30
+linoone, normal , nan ,HP78-AT70
+wurmple,bug,  nan  ,HP45-AT45
+silcoon,bug, nan ,HP50-AT35
+beautifly, bug , flying ,HP60-AT70
+cascoon, bug ,  nan  ,HP50-AT35
+dustox,bug,  poison  ,HP60-AT50
+lotad,water,  grass  ,HP40-AT30
+lombre,water,  grass  ,HP60-AT50
+ludicolo,  water  , grass ,HP80-AT70
+seedot,  grass  , nan ,HP40-AT40
+nuzleaf, grass , dark ,HP70-AT70
+shiftry, grass ,dark,HP90-AT100
+taillow,normal,  flying  ,HP40-AT55
+swellow,normal,  flying  ,HP60-AT85
+wingull,water, flying ,HP40-AT30
+pelipper,water,flying,HP60-AT50
+ralts,  psychic  ,fairy,HP28-AT25
+kirlia, psychic ,fairy,HP38-AT35
+gardevoir,psychic, fairy ,HP68-AT65
+gardevoirmega gardevoir,psychic, fairy ,HP68-AT85
+surskit, bug , water ,HP40-AT30
+masquerain, bug , flying ,HP70-AT60
+shroomish, grass , nan ,HP60-AT40
+breloom,grass, fighting ,HP60-AT130
+slakoth,normal,  nan  ,HP60-AT60
+vigoroth,normal,  nan  ,HP80-AT80
+slaking,  normal  , nan ,HP150-AT160
+nincada,  bug  ,ground,HP31-AT45
+ninjask,  bug  ,flying,HP61-AT90
+shedinja, bug ,  ghost  ,HP1-AT90
+whismur, normal , nan ,HP64-AT51
+loudred, normal , nan ,HP84-AT71
+exploud,  normal  ,  nan  ,HP104-AT91
+makuhita, fighting , nan ,HP72-AT60
+hariyama, fighting ,  nan  ,HP144-AT120
+azurill,  normal  , fairy ,HP50-AT20
+nosepass, rock ,  nan  ,HP30-AT45
+skitty,normal, nan ,HP50-AT45
+delcatty,  normal  ,nan,HP70-AT65
+sableye,dark, ghost ,HP50-AT75
+sableyemega sableye,dark,  ghost  ,HP50-AT85
+mawile,steel, fairy ,HP50-AT85
+mawilemega mawile, steel ,fairy,HP50-AT105
+aron,  steel  ,  rock  ,HP50-AT70
+lairon,  steel  ,  rock  ,HP60-AT90
+aggron,  steel  ,rock,HP70-AT110
+aggronmega aggron,  steel  , nan ,HP70-AT140
+meditite,fighting,  psychic  ,HP30-AT40
+medicham,  fighting  ,psychic,HP60-AT60
+medichammega medicham, fighting , psychic ,HP60-AT100
+electrike, electric ,nan,HP40-AT45
+manectric, electric ,nan,HP70-AT75
+manectricmega manectric,  electric  ,nan,HP70-AT75
+plusle,electric,nan,HP60-AT50
+minun, electric ,  nan  ,HP60-AT40
+volbeat, bug , nan ,HP65-AT73
+illumise, bug , nan ,HP65-AT47
+roselia,  grass  ,  poison  ,HP50-AT60
+gulpin,poison,  nan  ,HP70-AT43
+swalot,  poison  ,nan,HP100-AT73
+carvanha, water ,dark,HP45-AT90
+sharpedo,water,dark,HP70-AT120
+sharpedomega sharpedo, water , dark ,HP70-AT140
+wailmer, water , nan ,HP130-AT70
+wailord,water, nan ,HP170-AT90
+numel,fire,  ground  ,HP60-AT60
+camerupt,fire,ground,HP70-AT100
+cameruptmega camerupt,  fire  , ground ,HP70-AT120
+torkoal,  fire  ,  nan  ,HP70-AT85
+spoink,  psychic  ,nan,HP60-AT25
+grumpig,psychic,  nan  ,HP80-AT45
+spinda,  normal  ,  nan  ,HP60-AT60
+trapinch,  ground  ,  nan  ,HP45-AT100
+vibrava,ground,dragon,HP50-AT70
+flygon,ground,dragon,HP80-AT100
+cacnea, grass ,  nan  ,HP50-AT85
+cacturne,  grass  ,dark,HP70-AT115
+swablu, normal , flying ,HP45-AT40
+altaria, dragon ,  flying  ,HP75-AT70
+altariamega altaria,  dragon  ,  fairy  ,HP75-AT110
+zangoose,normal, nan ,HP73-AT115
+seviper, poison , nan ,HP73-AT100
+lunatone, rock ,  psychic  ,HP70-AT55
+solrock,rock,  psychic  ,HP70-AT95
+barboach,  water  , ground ,HP50-AT48
+whiscash,  water  ,  ground  ,HP110-AT78
+corphish,water,  nan  ,HP43-AT80
+crawdaunt, water ,dark,HP63-AT120
+baltoy,  ground  ,  psychic  ,HP40-AT40
+claydol, ground ,  psychic  ,HP60-AT70
+lileep,rock, grass ,HP66-AT41
+cradily,  rock  ,grass,HP86-AT81
+anorith,  rock  ,bug,HP45-AT95
+armaldo,  rock  ,  bug  ,HP75-AT125
+feebas, water , nan ,HP20-AT15
+milotic,  water  ,nan,HP95-AT60
+castform,  normal  ,nan,HP70-AT70
+kecleon,  normal  ,nan,HP60-AT90
+shuppet, ghost , nan ,HP44-AT75
+banette,ghost, nan ,HP64-AT115
+banettemega banette,  ghost  ,nan,HP64-AT165
+duskull, ghost ,nan,HP20-AT40
+dusclops,  ghost  ,  nan  ,HP40-AT70
+tropius,  grass  ,flying,HP99-AT68
+chimecho,  psychic  ,nan,HP65-AT50
+absol,  dark  , nan ,HP65-AT130
+absolmega absol,  dark  ,  nan  ,HP65-AT150
+wynaut,psychic,nan,HP95-AT23
+snorunt,  ice  ,  nan  ,HP50-AT50
+glalie,ice, nan ,HP80-AT80
+glaliemega glalie,  ice  ,nan,HP80-AT120
+spheal,ice,water,HP70-AT40
+sealeo,  ice  ,water,HP90-AT60
+walrein,ice,water,HP110-AT80
+clamperl, water , nan ,HP35-AT64
+huntail,  water  , nan ,HP55-AT104
+gorebyss,water, nan ,HP55-AT84
+relicanth,  water  , rock ,HP100-AT90
+luvdisc,  water  ,  nan  ,HP43-AT30
+bagon, dragon ,  nan  ,HP45-AT75
+shelgon, dragon ,nan,HP65-AT95
+salamence,dragon,  flying  ,HP95-AT135
+salamencemega salamence,dragon,flying,HP95-AT145
+beldum,  steel  ,psychic,HP40-AT55
+metang,  steel  ,psychic,HP60-AT75
+metagross,  steel  ,  psychic  ,HP80-AT135
+metagrossmega metagross,  steel  ,  psychic  ,HP80-AT145
+regirock legandary,  rock  ,nan,HP80-AT100
+regice legandary,  ice  , nan ,HP80-AT50
+registeel legandary,steel,nan,HP80-AT75
+latias legandary,  dragon  , psychic ,HP80-AT80
+latiasmega latias legandary,  dragon  ,psychic,HP80-AT100
+latios legandary,dragon, psychic ,HP80-AT90
+latiosmega latios legandary,  dragon  ,  psychic  ,HP80-AT130
+kyogre legandary, water ,nan,HP100-AT100
+kyogreprimal kyogre legandary, water , nan ,HP100-AT150
+groudon legandary,  ground  , nan ,HP100-AT150
+groudonprimal groudon legandary,  ground  ,  fire  ,HP100-AT180
+rayquaza legandary,  dragon  ,flying,HP105-AT150
+rayquazamega rayquaza legandary, dragon ,flying,HP105-AT180
+jirachi legandary, steel ,psychic,HP100-AT100
+deoxysnormal forme legandary,psychic,nan,HP50-AT150
+deoxysattack forme legandary,psychic,nan,HP50-AT180
+deoxysdefense forme legandary,psychic,nan,HP50-AT70
+deoxysspeed forme legandary,  psychic  , nan ,HP50-AT95
+turtwig,  grass  ,nan,HP55-AT68
+grotle,grass,nan,HP75-AT89
+torterra,grass,ground,HP95-AT109
+chimchar,fire,nan,HP44-AT58
+monferno,  fire  ,fighting,HP64-AT78
+infernape, fire ,  fighting  ,HP76-AT104
+piplup, water ,  nan  ,HP53-AT51
+prinplup,  water  ,nan,HP64-AT66
+empoleon,  water  ,  steel  ,HP84-AT86
+starly,normal,flying,HP40-AT55
+staravia, normal ,flying,HP55-AT75
+staraptor,  normal  ,flying,HP85-AT120
+bidoof,normal,  nan  ,HP59-AT45
+bibarel, normal , water ,HP79-AT85
+kricketot,bug,nan,HP37-AT25
+kricketune,  bug  ,nan,HP77-AT85
+shinx,electric,  nan  ,HP45-AT65
+luxio,  electric  ,nan,HP60-AT85
+luxray,electric,  nan  ,HP80-AT120
+budew,  grass  ,poison,HP40-AT30
+roserade, grass , poison ,HP60-AT70
+cranidos, rock , nan ,HP67-AT125
+rampardos,  rock  ,nan,HP97-AT165
+shieldon,  rock  ,  steel  ,HP30-AT42
+bastiodon, rock , steel ,HP60-AT52
+burmy,  bug  , nan ,HP40-AT29
+wormadamplant cloak,  bug  ,  grass  ,HP60-AT59
+wormadamsandy cloak,bug, ground ,HP60-AT79
+wormadamtrash cloak,  bug  , steel ,HP60-AT69
+mothim, bug ,  flying  ,HP70-AT94
+combee,  bug  ,  flying  ,HP30-AT30
+vespiquen,bug, flying ,HP70-AT80
+pachirisu,electric,nan,HP60-AT45
+buizel,water,  nan  ,HP55-AT65
+floatzel,  water  , nan ,HP85-AT105
+cherubi, grass ,  nan  ,HP45-AT35
+cherrim,  grass  ,  nan  ,HP70-AT60
+shellos, water ,nan,HP76-AT48
+gastrodon, water ,  ground  ,HP111-AT83
+ambipom,normal,nan,HP75-AT100
+drifloon, ghost , flying ,HP90-AT50
+drifblim,ghost,flying,HP150-AT80
+buneary,normal,nan,HP55-AT66
+lopunny,normal, nan ,HP65-AT76
+lopunnymega lopunny,normal, fighting ,HP65-AT136
+mismagius,ghost, nan ,HP60-AT60
+honchkrow,  dark  ,  flying  ,HP100-AT125
+glameow,  normal  ,  nan  ,HP49-AT55
+purugly, normal ,nan,HP71-AT82
+chingling, psychic ,nan,HP45-AT30
+stunky, poison ,  dark  ,HP63-AT63
+skuntank,  poison  , dark ,HP103-AT93
+bronzor,  steel  ,psychic,HP57-AT24
+bronzong, steel ,psychic,HP67-AT89
+bonsly, rock , nan ,HP50-AT80
+mime jr.,  psychic  , fairy ,HP20-AT25
+happiny, normal ,nan,HP100-AT5
+chatot,normal, flying ,HP76-AT65
+spiritomb, ghost , dark ,HP50-AT92
+gible, dragon , ground ,HP58-AT70
+gabite, dragon ,ground,HP68-AT90
+garchomp, dragon ,  ground  ,HP108-AT130
+garchompmega garchomp, dragon ,  ground  ,HP108-AT170
+munchlax, normal ,  nan  ,HP135-AT85
+riolu,fighting,nan,HP40-AT70
+lucario, fighting ,steel,HP70-AT110
+lucariomega lucario, fighting ,steel,HP70-AT145
+hippopotas,  ground  , nan ,HP68-AT72
+hippowdon, ground , nan ,HP108-AT112
+skorupi,poison,  bug  ,HP40-AT50
+drapion,  poison  ,dark,HP70-AT90
+croagunk,  poison  , fighting ,HP48-AT61
+toxicroak, poison , fighting ,HP83-AT106
+carnivine,grass, nan ,HP74-AT100
+finneon,water, nan ,HP49-AT49
+lumineon,water,nan,HP69-AT69
+mantyke, water ,flying,HP45-AT20
+snover,grass, ice ,HP60-AT62
+abomasnow,grass,ice,HP90-AT92
+abomasnowmega abomasnow,grass,ice,HP90-AT132
+weavile,dark,  ice  ,HP70-AT120
+magnezone, electric ,steel,HP70-AT70
+lickilicky,  normal  ,  nan  ,HP110-AT85
+rhyperior,  ground  ,  rock  ,HP115-AT140
+tangrowth,  grass  , nan ,HP100-AT100
+electivire,  electric  , nan ,HP75-AT123
+magmortar, fire , nan ,HP75-AT95
+togekiss,  fairy  ,  flying  ,HP85-AT50
+yanmega,bug, flying ,HP86-AT76
+leafeon, grass ,nan,HP65-AT110
+glaceon,ice,  nan  ,HP65-AT60
+gliscor, ground ,  flying  ,HP75-AT95
+mamoswine, ice ,ground,HP110-AT130
+porygon-z, normal ,  nan  ,HP85-AT80
+gallade, psychic ,fighting,HP68-AT125
+gallademega gallade, psychic ,  fighting  ,HP68-AT165
+probopass,  rock  ,steel,HP60-AT55
+dusknoir, ghost , nan ,HP45-AT100
+froslass, ice , ghost ,HP70-AT80
+rotom,electric,  ghost  ,HP50-AT50
+rotomheat rotom, electric ,fire,HP50-AT65
+rotomwash rotom, electric ,  water  ,HP50-AT65
+rotomfrost rotom,  electric  ,  ice  ,HP50-AT65
+rotomfan rotom, electric ,flying,HP50-AT65
+rotommow rotom, electric ,  grass  ,HP50-AT65
+uxie legandary,psychic,  nan  ,HP75-AT75
+mesprit legandary, psychic ,  nan  ,HP80-AT105
+azelf legandary,  psychic  , nan ,HP75-AT125
+dialga legandary, steel , dragon ,HP100-AT120
+palkia legandary, water , dragon ,HP90-AT120
+heatran legandary,  fire  ,steel,HP91-AT90
+regigigas legandary, normal , nan ,HP110-AT160
+giratinaaltered forme legandary,ghost,dragon,HP150-AT100
+giratinaorigin forme legandary,ghost, dragon ,HP150-AT120
+cresselia, psychic ,nan,HP120-AT70
+phione,  water  ,  nan  ,HP80-AT80
+manaphy, water ,  nan  ,HP100-AT100
+darkrai legandary, dark ,nan,HP70-AT90
+shayminland forme legandary,grass,  nan  ,HP100-AT100
+shayminsky forme legandary, grass ,flying,HP100-AT103
+arceus legandary,normal,nan,HP120-AT120
+victini legandary,  psychic  ,  fire  ,HP100-AT100
+snivy,  grass  ,nan,HP45-AT45
+servine, grass , nan ,HP60-AT60
+serperior,  grass  , nan ,HP75-AT75
+tepig,fire, nan ,HP65-AT63
+pignite,  fire  ,fighting,HP90-AT93
+emboar,fire,  fighting  ,HP110-AT123
+oshawott,water,  nan  ,HP55-AT55
+dewott,water,nan,HP75-AT75
+samurott, water , nan ,HP95-AT100
+patrat, normal , nan ,HP45-AT55
+watchog,normal,nan,HP60-AT85
+lillipup, normal ,  nan  ,HP45-AT60
+herdier,  normal  ,  nan  ,HP65-AT80
+stoutland,normal,nan,HP85-AT110
+purrloin,  dark  , nan ,HP41-AT50
+liepard, dark ,  nan  ,HP64-AT88
+pansage,  grass  , nan ,HP50-AT53
+simisage,grass, nan ,HP75-AT98
+pansear, fire ,nan,HP50-AT53
+simisear,fire, nan ,HP75-AT98
+panpour,water,nan,HP50-AT53
+simipour, water ,  nan  ,HP75-AT98
+munna,psychic,  nan  ,HP76-AT25
+musharna,psychic, nan ,HP116-AT55
+pidove, normal ,  flying  ,HP50-AT55
+tranquill,  normal  , flying ,HP62-AT77
+unfezant,normal,  flying  ,HP80-AT115
+blitzle,electric,  nan  ,HP45-AT60
+zebstrika,  electric  ,nan,HP75-AT100
+roggenrola,  rock  ,  nan  ,HP55-AT75
+boldore,rock, nan ,HP70-AT105
+gigalith,  rock  , nan ,HP85-AT135
+woobat, psychic ,flying,HP55-AT45
+swoobat,  psychic  ,  flying  ,HP67-AT57
+drilbur,  ground  ,  nan  ,HP60-AT85
+excadrill,  ground  ,  steel  ,HP110-AT135
+audino, normal ,  nan  ,HP103-AT60
+audinomega audino,  normal  , fairy ,HP103-AT60
+timburr,  fighting  ,  nan  ,HP75-AT80
+gurdurr,fighting, nan ,HP85-AT105
+conkeldurr,fighting,  nan  ,HP105-AT140
+tympole,  water  ,nan,HP50-AT50
+palpitoad, water ,  ground  ,HP75-AT65
+seismitoad, water ,  ground  ,HP105-AT95
+throh, fighting ,  nan  ,HP120-AT100
+sawk,  fighting  , nan ,HP75-AT125
+sewaddle,bug,  grass  ,HP45-AT53
+swadloon,  bug  ,  grass  ,HP55-AT63
+leavanny,bug, grass ,HP75-AT103
+venipede,  bug  ,  poison  ,HP30-AT45
+whirlipede,  bug  ,poison,HP40-AT55
+scolipede,  bug  , poison ,HP60-AT100
+cottonee,grass, fairy ,HP40-AT27
+whimsicott,grass,fairy,HP60-AT67
+petilil, grass ,  nan  ,HP45-AT35
+lilligant, grass ,  nan  ,HP70-AT60
+basculin, water ,nan,HP70-AT92
+sandile, ground , dark ,HP50-AT72
+krokorok,ground,dark,HP60-AT82
+krookodile,  ground  ,dark,HP95-AT117
+darumaka, fire ,  nan  ,HP70-AT90
+darmanitanstandard mode,fire,nan,HP105-AT140
+darmanitanzen mode,  fire  ,psychic,HP105-AT30
+maractus,grass,nan,HP75-AT86
+dwebble,bug,  rock  ,HP50-AT65
+crustle,bug,  rock  ,HP70-AT95
+scraggy,dark,  fighting  ,HP50-AT75
+scrafty, dark ,fighting,HP65-AT90
+sigilyph,psychic,  flying  ,HP72-AT58
+yamask,ghost,  nan  ,HP38-AT30
+cofagrigus, ghost , nan ,HP58-AT50
+tirtouga,water,rock,HP54-AT78
+carracosta, water ,  rock  ,HP74-AT108
+archen,rock,flying,HP55-AT112
+archeops,  rock  , flying ,HP75-AT140
+trubbish,poison,  nan  ,HP50-AT50
+garbodor,  poison  ,nan,HP80-AT95
+zorua,dark, nan ,HP40-AT65
+zoroark, dark ,  nan  ,HP60-AT105
+minccino, normal , nan ,HP55-AT50
+cinccino,normal,  nan  ,HP75-AT95
+gothita,psychic, nan ,HP45-AT30
+gothorita,psychic,  nan  ,HP60-AT45
+gothitelle, psychic , nan ,HP70-AT55
+solosis, psychic ,  nan  ,HP45-AT30
+duosion,  psychic  ,nan,HP65-AT40
+reuniclus, psychic , nan ,HP110-AT65
+ducklett,  water  , flying ,HP62-AT44
+swanna,  water  , flying ,HP75-AT87
+vanillite, ice ,nan,HP36-AT50
+vanillish,ice,nan,HP51-AT65
+vanilluxe,  ice  , nan ,HP71-AT95
+deerling, normal ,grass,HP60-AT60
+sawsbuck, normal , grass ,HP80-AT100
+emolga, electric , flying ,HP55-AT75
+karrablast,  bug  , nan ,HP50-AT75
+escavalier,bug,steel,HP70-AT135
+foongus, grass ,  poison  ,HP69-AT55
+amoonguss, grass ,  poison  ,HP114-AT85
+frillish, water , ghost ,HP55-AT40
+jellicent,  water  ,ghost,HP100-AT60
+alomomola,water,  nan  ,HP165-AT75
+joltik,bug,  electric  ,HP50-AT47
+galvantula,bug,electric,HP70-AT77
+ferroseed,  grass  ,steel,HP44-AT50
+ferrothorn,grass,  steel  ,HP74-AT94
+klink, steel ,  nan  ,HP40-AT55
+klang,  steel  ,nan,HP60-AT80
+klinklang,steel,  nan  ,HP60-AT100
+tynamo,  electric  ,  nan  ,HP35-AT55
+eelektrik,  electric  ,  nan  ,HP65-AT85
+eelektross, electric ,nan,HP85-AT115
+elgyem,  psychic  ,  nan  ,HP55-AT55
+beheeyem,  psychic  ,nan,HP75-AT75
+litwick, ghost ,  fire  ,HP50-AT30
+lampent,ghost, fire ,HP60-AT40
+chandelure,  ghost  , fire ,HP60-AT55
+axew,dragon,nan,HP46-AT87
+fraxure, dragon ,nan,HP66-AT117
+haxorus,dragon, nan ,HP76-AT147
+cubchoo,ice,nan,HP55-AT70
+beartic, ice ,nan,HP95-AT110
+cryogonal, ice ,nan,HP70-AT50
+shelmet,  bug  , nan ,HP50-AT40
+accelgor,  bug  , nan ,HP80-AT70
+stunfisk,ground, electric ,HP109-AT66
+mienfoo,fighting, nan ,HP45-AT85
+mienshao,  fighting  ,  nan  ,HP65-AT125
+druddigon, dragon , nan ,HP77-AT120
+golett,ground, ghost ,HP59-AT74
+golurk,ground,  ghost  ,HP89-AT124
+pawniard, dark ,  steel  ,HP45-AT85
+bisharp,  dark  ,steel,HP65-AT125
+bouffalant,  normal  ,  nan  ,HP95-AT110
+rufflet, normal ,  flying  ,HP70-AT83
+braviary,  normal  ,  flying  ,HP100-AT123
+vullaby,  dark  , flying ,HP70-AT55
+mandibuzz, dark ,flying,HP110-AT65
+heatmor,  fire  ,  nan  ,HP85-AT97
+durant,bug,steel,HP58-AT109
+deino,  dark  ,dragon,HP52-AT65
+zweilous, dark ,dragon,HP72-AT85
+hydreigon, dark ,dragon,HP92-AT105
+larvesta, bug , fire ,HP55-AT85
+volcarona,  bug  ,  fire  ,HP85-AT60
+cobalion legandary,steel,fighting,HP91-AT90
+terrakion legandary,rock,fighting,HP91-AT129
+virizion legandary, grass ,fighting,HP91-AT90
+tornadusincarnate forme legandary,flying,nan,HP79-AT115
+tornadustherian forme legandary, flying ,  nan  ,HP79-AT100
+thundurusincarnate forme legandary, electric ,flying,HP79-AT115
+thundurustherian forme legandary,  electric  ,flying,HP79-AT105
+reshiram legandary, dragon ,  fire  ,HP100-AT120
+zekrom legandary,  dragon  ,electric,HP100-AT150
+landorusincarnate forme legandary,  ground  ,flying,HP89-AT125
+landorustherian forme legandary,  ground  ,  flying  ,HP89-AT145
+kyurem legandary, dragon , ice ,HP125-AT130
+kyuremblack kyurem legandary, dragon ,  ice  ,HP125-AT170
+kyuremwhite kyurem legandary, dragon , ice ,HP125-AT120
+keldeoordinary forme,water,  fighting  ,HP91-AT72
+keldeoresolute forme,water,  fighting  ,HP91-AT72
+meloettaaria forme,normal,psychic,HP100-AT77
+meloettapirouette forme, normal , fighting ,HP100-AT128
+genesect,bug, steel ,HP71-AT120
+chespin, grass , nan ,HP56-AT61
+quilladin,grass,nan,HP61-AT78
+chesnaught,grass,  fighting  ,HP88-AT107
+fennekin,  fire  ,  nan  ,HP40-AT45
+braixen,  fire  ,  nan  ,HP59-AT59
+delphox, fire ,psychic,HP75-AT69
+froakie, water , nan ,HP41-AT56
+frogadier, water , nan ,HP54-AT63
+greninja, water , dark ,HP72-AT95
+bunnelby,normal,  nan  ,HP38-AT36
+diggersby, normal ,  ground  ,HP85-AT56
+fletchling,  normal  ,flying,HP45-AT50
+fletchinder,fire,  flying  ,HP62-AT73
+talonflame, fire ,flying,HP78-AT81
+scatterbug, bug ,  nan  ,HP38-AT35
+spewpa, bug , nan ,HP45-AT22
+vivillon,  bug  , flying ,HP80-AT52
+litleo, fire ,normal,HP62-AT50
+pyroar,  fire  , normal ,HP86-AT68
+flabébé,  fairy  ,nan,HP44-AT38
+floette,  fairy  , nan ,HP54-AT45
+florges, fairy ,  nan  ,HP78-AT65
+skiddo, grass ,  nan  ,HP66-AT65
+gogoat,  grass  ,nan,HP123-AT100
+pancham, fighting , nan ,HP67-AT82
+pangoro,  fighting  , dark ,HP95-AT124
+furfrou, normal , nan ,HP75-AT80
+espurr,psychic,  nan  ,HP62-AT48
+meowsticmale, psychic ,nan,HP74-AT48
+meowsticfemale,psychic, nan ,HP74-AT48
+honedge, steel ,  ghost  ,HP45-AT80
+doublade, steel ,ghost,HP59-AT110
+aegislashblade forme,  steel  ,ghost,HP60-AT150
+aegislashshield forme,steel, ghost ,HP60-AT50
+spritzee,fairy,  nan  ,HP78-AT52
+aromatisse, fairy ,nan,HP101-AT72
+swirlix, fairy ,  nan  ,HP62-AT48
+slurpuff,  fairy  ,  nan  ,HP82-AT80
+inkay, dark ,psychic,HP53-AT54
+malamar,  dark  ,  psychic  ,HP86-AT92
+binacle, rock ,water,HP42-AT52
+barbaracle,rock, water ,HP72-AT105
+skrelp, poison ,  water  ,HP50-AT60
+dragalge, poison ,  dragon  ,HP65-AT75
+clauncher,water,  nan  ,HP50-AT53
+clawitzer,water,nan,HP71-AT73
+helioptile, electric , normal ,HP44-AT38
+heliolisk,  electric  ,  normal  ,HP62-AT55
+tyrunt, rock ,dragon,HP58-AT89
+tyrantrum,rock, dragon ,HP82-AT121
+amaura,rock, ice ,HP77-AT59
+aurorus,  rock  ,  ice  ,HP123-AT77
+sylveon,  fairy  ,  nan  ,HP95-AT65
+hawlucha,  fighting  ,  flying  ,HP78-AT92
+dedenne, electric ,  fairy  ,HP67-AT58
+carbink, rock , fairy ,HP50-AT50
+goomy,dragon,  nan  ,HP45-AT50
+sliggoo,  dragon  ,  nan  ,HP68-AT75
+goodra,  dragon  ,  nan  ,HP90-AT100
+klefki,  steel  ,  fairy  ,HP57-AT80
+phantump,ghost, grass ,HP43-AT70
+trevenant,  ghost  , grass ,HP85-AT110
+pumpkabooaverage size, ghost ,  grass  ,HP49-AT66
+pumpkaboosmall size,ghost,  grass  ,HP44-AT66
+pumpkaboolarge size,ghost, grass ,HP54-AT66
+pumpkaboosuper size,ghost,grass,HP59-AT66
+gourgeistaverage size, ghost , grass ,HP65-AT90
+gourgeistsmall size, ghost ,  grass  ,HP55-AT85
+gourgeistlarge size,ghost,  grass  ,HP75-AT95
+gourgeistsuper size,  ghost  ,  grass  ,HP85-AT100
+bergmite, ice ,  nan  ,HP55-AT69
+avalugg,  ice  ,  nan  ,HP95-AT117
+noibat,  flying  ,  dragon  ,HP40-AT30
+noivern,flying,dragon,HP85-AT70
+xerneas legandary, fairy ,  nan  ,HP126-AT131
+yveltal legandary, dark ,flying,HP126-AT131
+zygarde50% forme legandary, dragon ,ground,HP108-AT100
+diancie legandary, rock ,fairy,HP50-AT100
+dianciemega diancie legandary, rock ,fairy,HP50-AT160
+hoopahoopa confined legandary, psychic , ghost ,HP80-AT110
+hoopahoopa unbound legandary, psychic ,  dark  ,HP80-AT160
+volcanion legandary,fire, water ,HP80-AT110
