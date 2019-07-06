@@ -7,6 +7,7 @@ activate juypterlab python-beginner
 conda install -c anaconda seaborn
 conda install -c anaconda pandas
 conda install -c anaconda numpy
+conda install -c anaconda requests
 
 conda install -c conda-forge ipywidgets
 conda install -c conda-forge ipyleaflet
