@@ -1,3 +1,3 @@
-Call C:\ProgramData\Anaconda3\Scripts\activate.bat training_test 
+Call C:\ProgramData\Anaconda3\Scripts\activate.bat python-beginner
 jupyter notebook W:\Desktop
 PAUSE
